@@ -1,0 +1,15 @@
+{
+    "name": "simple-jwt-auth-helper",
+    "version": "1.0.0",
+    "description": "Simple JWT based authentication helper for Node.js apps",
+    "type": "module",
+    "main": "index.js",
+    "author": "Zia khalid",
+    "license": "MIT",
+    "keywords": ["jwt", "authentication", "nodejs", "express", "helper"],
+    "dependencies": {
+      "jsonwebtoken": "^9.0.0",
+      "bcryptjs": "^2.4.3"
+    }
+  }
+  
